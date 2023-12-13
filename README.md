@@ -6,4 +6,3 @@
 这里说下我的配置：sn570，z270-p，d4 kingston 16g 1667
 仅供参考
 ![image](https://user-images.githubusercontent.com/88225943/188251427-0e3946e4-9dff-4ff3-a35f-069256382c64.png)
-详细请看博客https://www.nwqqqq.xyz/index.php/2022/09/03/z270-p%e9%bb%91%e8%8b%b9%e6%9e%9cefi/
